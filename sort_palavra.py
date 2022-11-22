@@ -13,5 +13,3 @@ with open('palavras.txt', 'r', encoding='utf-8') as arquivo:
 
 
 comp = lambda l: l[randint(0, len(l)-1)]
-
-
